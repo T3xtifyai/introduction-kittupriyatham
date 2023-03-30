@@ -25,7 +25,7 @@ approach some individuals for **AFFILIATE MARKETING** and help us get more custo
 collect entry fees from the participants (method 7).  
 
 
-[TextifyAI B2C AI Solutions Monetization strategy.pptx](https://potlurikrishnapriyatham.azurewebsites.net/)
+[TextifyAI B2C AI Solutions Monetization strategy.pptx](https://github.com/kittupriyatham/introduction-kittupriyatham/blob/main/TextifyAI%20B2C%20AI%20Solutions%20Monetization%20strategy.pptx)
 
 That's it from my side, Hoping for a positive response to the octernship application. **Goodbye !**
 
