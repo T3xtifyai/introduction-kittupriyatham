@@ -45,3 +45,6 @@ Students are expected to submit their work as either presentations/ video submis
 Using the auto generated Feedback Pull Request for review and submission
 Using GitHub Discussions to ask any relevant questions regarding the project
 
+# Submission:
+
+Please go though the [submission.md](https://github.com/kittupriyatham/introduction-kittupriyatham/blob/main/submission.md) file and then proceed to TextifyAI B2C AI Solutions Monetization strategy.pptx file.
